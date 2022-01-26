@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BrunaColabone
 - 👀 I’m interested in ...meet Dev talents 
 - 🌱 I’m currently learning ...Tech recruiting
-- 💞️ I’m looking to collaborate on ... you to find a new opportunity 
+- 💞️ I’m looking to collaborate on ... new opportunities
 - 📫 How to reach me ... @brucolabone@gmail.com
 
 <!---
